@@ -1,8 +1,8 @@
 <h3 align="center">Olá, sou Atirson Almeida, estudante na área de tecnologia da informação, seja bem vindo ao meu perfil!</h3>
 <div align="center">
   <a href="https://github.com/atirsondev">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=atirsondev&anuraghazra&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=atirsondev&langs_count=8&theme=midnight-purple">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=atirsondev&anuraghazra&theme=algolia&show_icons=true&include_all_commits=true&count_private=true">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=atirsondev&langs_count=8&theme=algolia">
 </div>
 
   ##
